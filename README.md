@@ -7,7 +7,7 @@ Please enter the ans as MATLAB notation without any unnecessary space or commas.
 << Enter your matrix in MATLAB syntax here! >>
 ```
 
-Then the an output file named "allPossibleAns.txt" will be generated with all equivalent syntax.
+Then an output file named "allPossibleAns.txt" will be generated with all equivalent syntax.
 
 Suggestions are welcome : )
 Also let me know if there's a bug 
