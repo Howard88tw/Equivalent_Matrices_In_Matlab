@@ -44,7 +44,7 @@ def generateCombinations(curIndex, elements, curAns, possibleAns):
         curAns.pop()
 
 if __name__ == '__main__':
-    ans = input("Please enter the ans as MATLAB notation without any unnecessary space or commas. E.g. [3;5;6]\n") 
+    ans = input("Please enter the matrix as MATLAB notation without any unnecessary space or commas. E.g. [3;5;6]\n") 
 
     elements = parseInput(ans)
     possibleAns = []

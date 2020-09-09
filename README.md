@@ -3,7 +3,7 @@
 Usage:
 ```
 $ python generateAns.py
-Please enter the ans as MATLAB notation without any unnecessary space or commas. E.g. [3;5;6]
+Please enter the matrix as MATLAB notation without any unnecessary space or commas. E.g. [3;5;6]
 << Enter your matrix in MATLAB syntax here! >>
 ```
 
